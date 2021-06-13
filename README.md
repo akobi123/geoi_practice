@@ -1,4 +1,4 @@
-# georgian olympiad in informatics 2021 practice
+# georgian olympiad in informatics practice
 
 statements for problems A B and C in georgian
 
