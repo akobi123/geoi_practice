@@ -8,7 +8,7 @@ solutions for problems A B and C in c++
 
 ## Short statements in english:
 
-### A sum:
+### A sum
 
 **input**: two integers _0 <= A,B <= 100_
 
