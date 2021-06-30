@@ -1,12 +1,12 @@
 # georgian olympiad in informatics practice
 
-## Includes
+## Includes:
 
 statements for problems A B and C in georgian
 
 solutions for problems A B and C in c++
 
-## Short statements in english
+## Short statements in english:
 
 ### A sum:
 
